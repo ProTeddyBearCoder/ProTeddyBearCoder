@@ -1,0 +1,6 @@
+- 👋 Hi, I’m ProTeddyBearCoder
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Unity
+- 📫 How to reach me: message me at dhruvsri02@outlook.com
+- ⚡ Fun fact: I am not allowed to code alot.
